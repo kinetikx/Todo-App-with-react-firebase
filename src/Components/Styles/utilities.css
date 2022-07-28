@@ -1,0 +1,19 @@
+.Margin{
+    margin: 10px;
+}
+
+.Align-center{
+    align-items: center;
+}
+
+.Margin-auto{
+    margin: auto;
+}
+
+.Text-center{
+    text-align: center;
+}
+
+.Justify-center{
+    justify-content: center;
+}
