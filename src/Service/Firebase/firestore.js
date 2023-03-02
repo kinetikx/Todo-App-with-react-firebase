@@ -9,13 +9,13 @@ import {useState, createContext, useEffect} from "react";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyCQTR8NlN2jgpX4iIUbwVLxR-O-kJoMTSs",
-    authDomain: "yeni-4acbe.firebaseapp.com",
-    projectId: "yeni-4acbe",
-    storageBucket: "yeni-4acbe.appspot.com",
-    messagingSenderId: "1031166947632",
-    appId: "1:1031166947632:web:1a75fd5f151bf6646518f5",
-    measurementId: "G-S6XYHV91RD"
+    apiKey: "APİ_KEY",
+    authDomain: "DOMAİN",
+    projectId: "İD",
+    storageBucket: "storageBucket",
+    messagingSenderId: "messagingSenderId",
+    appId: "appId",
+    measurementId: "measurementId"
 };
 
 // Initialize Firebase
